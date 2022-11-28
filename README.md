@@ -2,7 +2,7 @@
 
 # Description
 
-In this project, Cucumber is being used to apply a wide range of data from a dataset consisting of all negative credentials that as being allied to the login page of the following website: https://opensource-demo.orangehrmlive.com/
+In this project, Cucumber is being used to apply a wide range of data from a dataset consisting of all negative credentials that is being allied to the login page of the following website: https://opensource-demo.orangehrmlive.com/
 
 When invalid data is applied the login page shows an error "Invalid credentials". This error message is then asserted against each data in the dataset and every time the login attempt fails, the test case assertion passes.
 
